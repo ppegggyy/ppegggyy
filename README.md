@@ -25,7 +25,7 @@
       <code>Python</code>  <code>TensorFlow</code>  <code>scikit-learn</code>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>🗺️ <a href="https://github.com/ppegggyy/SeekNepal">SeekNepal</a></h4>
+      <h4>🧑🏼‍🏫 <a href="https://github.com/ppegggyy/SeekNepal">SeekNepal</a></h4>
       <small>Web based online learning and teaching platform for tourists and students.</small><br><br>
       <code>HTML</code>  <code>CSS</code>  <code>JavaScript</code>
     </td>
