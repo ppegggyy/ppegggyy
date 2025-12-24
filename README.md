@@ -64,11 +64,15 @@
 
 ---
 
-## Most Used Languages
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppegggyy&theme=tokyonight" alt="Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppegggyy&theme=tokyonight" alt="Profile Details" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppegggyy&theme=tokyonight" alt="Languages by Repo" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppegggyy&theme=tokyonight" alt="Languages by Commit" width="400" />
+</p>
 ## Currently Listening
 
 <p align="center">
