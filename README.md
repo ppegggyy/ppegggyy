@@ -1,14 +1,15 @@
 <div align="center">
 
+<div align="center">
+
 # Hi, I'm Subrna
 **Full Stack Developer • CS Student • Machine Learning Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrna-thakurathi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrna-thakurathi-914256310/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thakurathisubarna77@gmail.com)
 
 </div>
 
----
 
 ## Featured Projects
 
