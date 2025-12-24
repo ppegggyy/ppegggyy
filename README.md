@@ -6,8 +6,7 @@
 **Full Stack Developer • CS Student • Machine Learning Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrna-thakurathi-914256310/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thakurathisubarna77@gmail.com)
-
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=thakurathisubarna77@gmail.com)
 </div>
 
 
