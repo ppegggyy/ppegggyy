@@ -18,17 +18,17 @@
     <td width="33%" align="center" valign="top">
       <h4>🔋 <a href="https://github.com/ppegggyy/Smartgrid-GA-optimizer">Smartgrid-GA-Optimizer</a></h4>
       <small>Genetic algorithm optimization for smart grid energy management</small><br><br>
-      <code>Python</code> • <code>NumPy</code> • <code>Matplotlib</code>
+      <code>Python</code>  <code>NumPy</code>  <code>Matplotlib</code>
     </td>
     <td width="33%" align="center" valign="top">
       <h4>🏔️ <a href="https://github.com/ppegggyy/nepal-earthquake-mlpc">Nepal Earthquake MLPC</a></h4>
       <small>Analysis of Nepal earthquake data using Random Forest and Parallel Processing.</small><br><br>
-      <code>Python</code> • <code>TensorFlow</code> • <code>scikit-learn</code>
+      <code>Python</code>  <code>TensorFlow</code>  <code>scikit-learn</code>
     </td>
     <td width="33%" align="center" valign="top">
       <h4>🗺️ <a href="https://github.com/ppegggyy/SeekNepal">SeekNepal</a></h4>
       <small>Web based online learning and teaching platform for tourists and students.</small><br><br>
-      <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code>
+      <code>HTML</code>  <code>CSS</code>  <code>JavaScript</code>
     </td>
   </tr>
 </table>
