@@ -65,12 +65,9 @@
 ---
 
 ## Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppegggyy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppegggyy&theme=tokyonight" alt="Languages by Repo" />
 </p>
-
----
 
 ## Currently Listening
 
