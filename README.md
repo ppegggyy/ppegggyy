@@ -75,22 +75,23 @@
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppegggyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppegggyy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ppegggyy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppegggyy&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## Currently Listening
 
-<div align="center">
-  [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=maybesubarna&count=3&width=600)](https://www.last.fm/user/maybesubarna)
-</div>
-
+<p align="center">
+  <a href="https://www.last.fm/user/maybesubarna">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=maybesubarna&count=3&width=600" />
+  </a>
+</p>
 ---
 
 ## Contributions
 
 <div align="center">
-  ![Snake animation](https://github.com/ppegggyy/ppegggyy/blob/output/github-contribution-grid-snake-dark.svg)
+ ![Snake animation](https://raw.githubusercontent.com/ppegggyy/ppegggyy/output/github-contribution-grid-snake-dark.svg)
 </div>
