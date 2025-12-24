@@ -18,17 +18,17 @@
 <table align="center">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h4>🔋 <a href="YOUR_REPO_LINK">Smartgrid-GA-Optimizer</a></h4>
+      <h4>🔋 <a href="https://github.com/ppegggyy/Smartgrid-GA-optimizer">Smartgrid-GA-Optimizer</a></h4>
       <small>Genetic algorithm optimization for smart grid energy management</small><br><br>
-      <code>Python</code> • <code>Optimization</code> • <code>NumPy</code> • <code>Matplotlib</code>
+      <code>Python</code> • <code>NumPy</code> • <code>Matplotlib</code>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>🏔️ <a href="YOUR_REPO_LINK">Nepal Earthquake MLPC</a></h4>
-      <small>Machine learning analysis of Nepal earthquake data using CNN</small><br><br>
+      <h4>🏔️ <a href="https://github.com/ppegggyy/nepal-earthquake-mlpc">Nepal Earthquake MLPC</a></h4>
+      <small>Analysis of Nepal earthquake data using Random Forest and Parallel Processing.</small><br><br>
       <code>Python</code> • <code>TensorFlow</code> • <code>scikit-learn</code>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>🗺️ <a href="YOUR_REPO_LINK">SeekNepal</a></h4>
+      <h4>🗺️ <a href="https://github.com/ppegggyy/SeekNepal">SeekNepal</a></h4>
       <small>Web based online learning platform for Nepal</small><br><br>
       <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code>
     </td>
