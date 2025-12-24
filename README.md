@@ -1,10 +1,7 @@
 <div align="center">
 
 # Hi, I'm Subrna
-
 **Full Stack Developer • CS Student • Machine Learning Enthusiast**
-
-> I write code. Sometimes it works.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -29,7 +26,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h4>🗺️ <a href="https://github.com/ppegggyy/SeekNepal">SeekNepal</a></h4>
-      <small>Web based online learning platform for Nepal</small><br><br>
+      <small>Web based online learning and teaching platform for tourists and students.</small><br><br>
       <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code>
     </td>
   </tr>
@@ -45,7 +42,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 
 **🌱 Learning & Exploring**  
 
@@ -64,19 +60,27 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppegggyy&theme=tokyonight" alt="Profile Details" />
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppegggyy&theme=tokyonight" alt="Languages by Repo" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppegggyy&theme=tokyonight" alt="Languages by Commit" width="400" />
-</p>
+<table align="center">
+  <tr>
+    <td width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppegggyy&theme=radical" alt="Contribution Graph" width="100%" />
+    </td>
+</table>
+
+---
+
 ## Currently Listening
 
 <p align="center">
   <a href="https://www.last.fm/user/maybesubarna">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=maybesubarna&count=5&width=600" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=maybesubarna&count=5&width=600" alt="Last.fm Recently Played" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ppegggyy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
