@@ -59,28 +59,3 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
-
-## 📊 GitHub Activity
-
-<table align="center">
-  <tr>
-    <td width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppegggyy&theme=radical" alt="Contribution Graph" width="100%" />
-    </td>
-</table>
-
----
-
-## Currently Listening
-
-<p align="center">
-  <a href="https://www.last.fm/user/maybesubarna">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=maybesubarna&count=5&width=600" alt="Last.fm Recently Played" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ppegggyy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
