@@ -27,15 +27,15 @@
     <td width="33%" align="center" valign="top">
       <h4>🏔️ <a href="YOUR_REPO_LINK">Nepal Earthquake MLPC</a></h4>
       <div align="center">
-        <small>Machine learning analysis of Nepal earthquake data using multi-layer perceptron</small><br><br>
+        <small>Machine learning analysis of Nepal earthquake data using CNN.</small><br><br>
         <code>Python</code> • <code>TensorFlow</code> • <code>scikit-learn</code> • <code>Data Analysis</code>
       </div>
     </td>
     <td width="33%" align="center" valign="top">
       <h4>🗺️ <a href="YOUR_REPO_LINK">SeekNepal</a></h4>
       <div align="center">
-        <small>Interactive web platform exploring Nepali culture and education</small><br><br>
-        <code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Tailwind CSS</code>
+        <small>Web based online learning/tutoring platform for Nepal.</small><br><br>
+        <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code>
       </div>
     </td>
   </tr>
@@ -84,7 +84,7 @@
 ## Currently Listening
 
 <div align="center">
-  [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME&count=3&width=600)](YOUR_LASTFM_URL)
+  [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=maybesubarna&count=3&width=600)](https://www.last.fm/user/maybesubarna)
 </div>
 
 ---
@@ -92,5 +92,5 @@
 ## Contributions
 
 <div align="center">
-  ![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/ppegggyy/ppegggyy/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
